@@ -1,4 +1,5 @@
-# fuzzy-waddle <img src="https://www.yucata.de/Games/MountainGoats/images/rules/bonus-points.png">
+# <img src="https://www.yucata.de/Games/MountainGoats/images/rules/bonus-points.png">
+# fuzzy-waddle 
 ## H2
 ### H3
 - list item 1
